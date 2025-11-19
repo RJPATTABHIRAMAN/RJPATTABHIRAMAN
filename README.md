@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 - 🌱 Currently improving my **backend architecture & system design**
 - 📚 Solid CS fundamentals: **OOP, DBMS, Operating Systems**
 - 📡 Also experienced in **AUTOSAR, CAN communication & embedded systems**
-- 📫 Reach me at: **pattabhiramankk@gmail.com**
+- 📫 Reach me at: **pattabhi4518@gmail.com**
 
 ---
 
